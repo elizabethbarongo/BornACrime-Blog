@@ -1,0 +1,136 @@
+
+.top-header {
+    background-color: rgba(0, 0, 255, 0.678); 
+
+    color: white; 
+    padding: 15px 20px; 
+    text-align: center; 
+    font-size: 0.9em; 
+  }
+  
+
+  .top-header .verified-text {
+    display: inline-flex; 
+    align-items: center; 
+    margin-left: 7%;
+  }
+  
+  .top-header .verified-text i {
+    margin-right: 10px; 
+    
+  }
+  
+  .top-header .verified-text a {
+    color: #ffc107; 
+    text-decoration: none; 
+    margin-left: 10px; 
+  }
+  
+  .top-header .verified-text a:hover {
+    text-decoration: underline;
+  }
+
+
+  
+  .navigationbar{
+    position: absolute;
+    text-decoration: none;
+    overflow: visible;
+    margin-top: 2cm;
+   
+    
+  
+    
+    
+    
+  }
+  nav ul{
+    text-decoration: none;
+    display: flex;
+    list-style: none;
+    gap: 2cm;
+    margin-left: 30cm;
+    border: 1px solid black;
+    width: 30%;
+    padding: 1%;
+    border-radius: 40px;
+    overflow: visible;
+    background-color: black;
+   
+   
+   
+  }
+  nav a{
+   
+    text-decoration: none;
+    color: aliceblue;
+   
+  }
+  
+
+nav a{
+list-style: none;
+text-decoration: none;
+color: aliceblue;
+margin-top: 10%;
+}
+.navigationbar{
+  margin-top: -5cm;
+  margin-left: 30%;
+  padding: 2px;
+  margin-bottom:30% ;
+  padding: 10%;
+  
+}
+ */
+
+  .text {
+
+    background-image: url(images/crime.jpg);
+    display: flex;
+    background-size: cover; 
+    background-position: center; 
+    color: white; 
+    text-align: center; 
+    padding: 300px;
+    height: 37vh; 
+   
+
+  
+  }
+
+  .images{
+   
+  
+  }
+
+  body{
+    margin: 0;
+    overflow-y: hidden;
+    overflow-x: hidden;
+  }
+
+  .text img{
+    height: 40px;
+  }
+
+  h1{
+    color:black;
+    font-size: 30px;
+    margin-left: 15%;
+  }
+h2{
+  color: white;
+  text-align: center;
+  margin-top: 2cm;
+  margin-bottom: 2cm;
+  margin-left: 25%;
+  
+}
+
+.link{
+  margin-left: 30%;
+  margin-right: 10cm;
+}
+
+  
