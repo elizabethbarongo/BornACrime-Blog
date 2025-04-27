@@ -99,3 +99,46 @@ img{
     background-repeat: none;
     
 }
+
+
+@media only screen and (max-width: 400px){
+
+
+
+nav ul {
+  width: 2cm;
+  gap: 0.1cm;
+  margin-bottom: 40cm;
+    margin-left: 7cm;
+    font-size: 5px;
+  
+
+
+
+}
+
+
+p{
+  font-size: 8px;
+}
+
+h1{
+  font-size: 10px;
+}
+
+.title{
+  height: 100vh;
+  width: 50vw;
+}
+body{
+  overflow-y: hidden;
+  overflow-x: hidden;
+}
+
+
+.top-header{
+  height: 1cm;
+  width: 10cm;
+}
+
+}
