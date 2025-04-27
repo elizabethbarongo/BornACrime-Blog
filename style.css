@@ -24,7 +24,7 @@
   }
   
   .top-header .verified-text a {
-    color: #ffc107; 
+    color:white; 
     text-decoration: none; 
     margin-left: 10px; 
     margin-bottom: 5%;
@@ -41,8 +41,9 @@
     text-decoration: none;
     overflow: visible;
     margin-bottom: 0.7cm;
-    font-size: large;
+    font-size: 140%;
    margin-top: 1cm;
+   /* color: black; */
    /* color: black; */
     
   
