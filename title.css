@@ -100,4 +100,56 @@ img{
   }
 
 
+
+@media only screen and (max-width: 400px){
+
+
+  h1{
+
+    font-size: 15px;
+  }
+
+
+  .noah{
+    font-size: 5px;
+    flex-direction: column;
+    height: 100px;
+    width: 200px;
+    
+    
+  }
+
+  p{
+    font-size: 10px;
+  }
+
+
+.noah{
+  font-size: 10px;
+  
+}
+
+nav ul {
+  width: 5cm;
+  gap: 0.5cm;
+  margin-bottom: 8cm;
+    margin-left: 7cm;
+  
+}
+
+
+.top-header {
+  font-size: 10px;
+  
+  
+}
+
+
+
+
+
+
+
+}
+
   
