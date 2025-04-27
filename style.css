@@ -1,11 +1,12 @@
 
 .top-header {
-    background-color: rgba(0, 0, 255, 0.678); 
+    background-color: blue; 
 
     color: white; 
-    padding: 15px 20px; 
+    padding: 1px 13px;
     text-align: center; 
     font-size: 0.9em; 
+    height: 1.5cm;
   }
   
 
@@ -13,10 +14,12 @@
     display: inline-flex; 
     align-items: center; 
     margin-left: 7%;
+    /* margin-top: 5%; */
   }
   
   .top-header .verified-text i {
     margin-right: 10px; 
+    margin-bottom: 5%;
     
   }
   
@@ -24,6 +27,7 @@
     color: #ffc107; 
     text-decoration: none; 
     margin-left: 10px; 
+    margin-bottom: 5%;
   }
   
   .top-header .verified-text a:hover {
@@ -33,11 +37,13 @@
 
   
   .navigationbar{
-    position: absolute;
+    /* position: absolute; */
     text-decoration: none;
     overflow: visible;
-    margin-top: 2cm;
-   
+    margin-bottom: 0.7cm;
+    font-size: large;
+   margin-top: 1cm;
+   /* color: black; */
     
   
     
@@ -48,14 +54,12 @@
     text-decoration: none;
     display: flex;
     list-style: none;
-    gap: 2cm;
-    margin-left: 30cm;
-    border: 1px solid black;
-    width: 30%;
-    padding: 1%;
+    gap: 1cm;
+    margin-right:5 cm;
+    
+    padding: 5%;
     border-radius: 40px;
     overflow: visible;
-    background-color: black;
    
    
    
@@ -64,6 +68,8 @@
    
     text-decoration: none;
     color: aliceblue;
+   
+  
    
   }
   
@@ -78,6 +84,7 @@
     text-align: center; 
     padding: 300px;
     height: 37vh; 
+  
    
 
   
@@ -117,4 +124,10 @@ h2{
   margin-right: 10cm;
 }
 
-  
+  p{
+    margin-bottom: 6%;
+  }
+h1{
+  font-size: 400%;
+  margin-left: 30%;
+}
